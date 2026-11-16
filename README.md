@@ -1,2 +1,6 @@
-# restic
-Ridgeway archive migration — internal cutover and sync tooling (team fork of the open-source backup engine).
+# Ridgeway Archive Migration
+
+Team tooling and cutover notes for the Ridgeway archive migration programme.
+
+This repository is the team copy of the open-source backup engine used by the
+Ridgeway migration. Upstream project material is kept only for reference.
