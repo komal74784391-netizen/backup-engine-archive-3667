@@ -1,6 +1,5 @@
-# Ridgeway Archive Migration
+# Archived scratch repository
 
-Team tooling and cutover notes for the Ridgeway archive migration programme.
-
-This repository is the team copy of the open-source backup engine used by the
-Ridgeway migration. Upstream project material is kept only for reference.
+Retired sandbox left over from an earlier experiment. This repository is not
+part of any active programme and should not be used for current coordination
+work.
